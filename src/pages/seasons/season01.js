@@ -171,7 +171,7 @@ export default function S01() {
                 Explore meu portfólio e descubra minha abordagem única.
               </Text>
               <Text fontWeight={"light"} fontSize={"24px"}>
-                conheça meus trabalhos aqui.
+                Conheça meus trabalhos aqui.
               </Text>
             </Flex>
           </Flex>
@@ -195,7 +195,7 @@ export default function S01() {
             textAlign={"center"}
           >
             <Text w="70%">
-              Aqui estão algumas das minhas ferramentas para juntar forçars no
+              Aqui estão algumas das minhas ferramentas para juntar forças no
               seu projeto.
             </Text>
           </Flex>
@@ -293,7 +293,7 @@ export default function S01() {
             </Text>
           </Flex>
 
-          <Flex w="100%">
+          <Flex w="100%" cursor={"pointer"}>
             <Flex
               w="100%"
               h="442px"
@@ -317,7 +317,7 @@ export default function S01() {
             </Text>
           </Flex>
 
-          <Flex w="100%">
+          <Flex w="100%" cursor={"pointer"}>
             <Flex
               w="100%"
               h="442px"
@@ -341,7 +341,7 @@ export default function S01() {
             </Text>
           </Flex>
 
-          <Flex w="100%">
+          <Flex w="100%" cursor={"pointer"}>
             <Flex
               w="100%"
               h="442px"
